@@ -1,0 +1,21 @@
+{'results': [
+{'gender': 'female', 'name': {'title': 'Ms', 'first': 'Chaiane', 'last': 'Monteiro'},
+ 'location': {'street': {'number': 5116, 'name': 'Rua Pernambuco '},
+ 'city': 'Cachoeirinha', 'state': 'Rondônia', 'country': 'Brazil', 'postcode': 24267, 'coordinates': {'latitude': '-76.9497', 'longitude': '47.0282'}, 
+ 'timezone': {'offset': '+6:00', 'description': 'Almaty, Dhaka, Colombo'}}, 
+ 'email': 'chaiane.monteiro@example.com', 
+ 'login': {'uuid': '29bc882c-2d0f-41d5-a48a-fe3a7071f2cc', 
+ 'username': 'purplewolf911', 'password': 'karma',
+ 'salt': '2a0h1vzr', 'md5': 'c76acc7a2e5528a6aba6f687a0e09088', 
+ 'sha1': 'a8e136cddb5b7553a77d3b136d777e19da19d335', 
+ 'sha256': 'cb9e7b97e2f18b20cb50d2a529902ec33c764c406df4553fa7007266cf5452d2'}, 
+ 'dob': {'date': '1956-01-31T20:27:01.873Z', 'age': 68}, 
+ 'registered': {'date': '2015-03-15T10:16:34.183Z', 'age': 9}, 
+ 'phone': '(04) 0917-7056', 'cell': '(11) 9597-5006',
+ 'id': {'name': 'CPF', 'value': '276.914.254-49'}, 
+ 'picture': {'large': 'https://randomuser.me/api/portraits/women/45.jpg', 
+ 'medium': 'https://randomuser.me/api/portraits/med/women/45.jpg',
+ 'thumbnail': 'https://randomuser.me/api/portraits/thumb/women/45.jpg'},
+ 'nat': 'BR'
+}			],
+ 'info': {'seed': '66e80219a61fad17', 'results': 1, 'page': 1, 'version': '1.4'}}
