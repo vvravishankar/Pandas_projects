@@ -1,0 +1,9 @@
+Make a api request to the wedsite and get the movie data.
+
+You need to create the account to have api_key. which is used in api calls
+
+site :- https://www.themoviedb.org/
+
+API:- https://api.themoviedb.org/3/movie/top_rated?api_key=760c6998a263efbcc59e58a7a27a08b4&langauage=en=US&page=1
+
+youtube :- https://www.youtube.com/watch?v=roTZJaxjnJc&t=1201s
